@@ -1,0 +1,17 @@
+body {
+    background-image: url(./kitku.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.btn{
+    margin-top: 5%;
+    width: 20%;
+    height: 10%;
+    background-color: rgb(116, 4, 4);
+    border: solid 2px black;
+}
+.inp{
+    width: 30%;
+    height: 30%;
+}
